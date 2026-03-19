@@ -1,0 +1,16 @@
+{
+  "name": "zapier-telegram",
+  "version": "1.0.0",
+  "description": "Download Telegram files by file_id",
+  "scripts": {
+    "test": "jest --testTimeout 10000"
+  },
+  "dependencies": {
+    "zapier-platform-core": "18.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.0"
+  },
+  "private": true,
+  "main": "index.js"
+}
